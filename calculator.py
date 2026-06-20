@@ -10,4 +10,7 @@ elif oper =="*":
     print(num1*num2)
 elif oper =="/":
     print(num1/num2)
-
+    if  oper =="/": 
+      
+    
+      print("cant divide with zero")
