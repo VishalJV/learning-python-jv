@@ -11,6 +11,6 @@ elif oper =="*":
 elif oper =="/":
     print(num1/num2)
     if  oper =="/": 
-      
+       print("Calculation Done :)")
     
-      print("cant divide with zero")
+      
